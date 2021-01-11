@@ -7,7 +7,7 @@ from selenium import webdriver
 ## The following code is to restart a ZTE router to invoke and assure your night time data is going to be used when midnight strikes.This is for those of you using FIXED LTE deals with night time data.
 ## if you are using a different brand router please use the Xpaths for your router
 
-#ZTE router models :  ZTE MF253 / ZTE MF 283R
+#ZTE router models tested :  ZTE MF253 / ZTE MF 283R / ZTE MF286c 
 
 
 driver = webdriver.Chrome()
